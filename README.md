@@ -1,12 +1,2 @@
-# KreatywniInaczej
-
-This is my first sentence.
-
-This is my second sentence.
-Yet another sentence :D
-
-And one more ;)
-
-test
-
-test test test test
+This is a summary of VII and XI chapter of *Essentials of Linguistics* by Catherine Anderson.
+It is a project completed by Maja Grys, Irena Jerzemowska, Joanna Nowak, and Karol Sadurski.
