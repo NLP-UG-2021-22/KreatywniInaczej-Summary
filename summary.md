@@ -17,3 +17,34 @@ She gives some consideration to **adverbs**, whose behaviour is much more challe
 
 The chapter is concluded with the introduction of the term **open-class categories**. Nouns, verbs, and adjectives can be said to represent this category since:
 > […] when new words get added to the language, they are almost always in one of these three categories – the categories are open to new members. These categories are sometimes also called **lexical categories** or **content words** because these categories are the ones that do most of the lexical semantic work in a sentence: they convey most of the meaning of a sentence (Anderson 2018: 211).
+
+## 7.3 *Closed Class Categories (Function Words)*
+In the opposition to open-class categories stand **closed-classed categories** to which the language does not usually add new words. Words that belong to closed-class categories are called **function words**. These are:
+- **determiners** which most often appear before nouns:
+    - **articles** (*<ins>a</ins> student*, *<ins>an</ins>  orange*, *<ins>the</ins>  snake*)
+    - **demonstratives** (*<ins>those</ins> students*, *<ins>these</ins> oranges*, *<ins>that</ins> snake*, *<ins>this</ins> idea*)
+    - **quantifiers** and **numerals** (*<ins>many</ins> students*, *<ins>twelve</ins> oranges*, *<ins>most</ins> snakes*, *<ins>several</ins> ideas*)
+    - **possessive pronouns** (*<ins>my</ins> sister*, *<ins>your</ins> idea*)
+- **prepositions** which usually appear with a noun phrase immediately following them (<ins>on</ins> the table, <ins>in</ins> the basket)
+- **conjunctions** join two phrases that belong to the same category (*oranges <ins>and</ins> lemons*, *soup <ins>or</ins> salad*, *small <ins>but</ins> mighty*)
+- **complementizers** introduce a clause which is a sentence embedded within a larger sentence (*Sam told us <ins>that</ins> she loved baseball*; *She decided to go running <ins>although</ins> a storm was forecast*).
+
+## 7.4 *Auxiliaries*
+**Auxiliaries** provide grammatical information about a verb’s tense or aspect, or other elements of meaning. There are nine **modal auxiliaries**:
+1.  can
+2. could
+3. shall
+4. should
+5. will
+6. would
+7. may
+8. might
+9. must
+
+The verbs *have*, *be*, and *do* can behave like auxiliaries too. They can be inflected, so even when they are auxiliaries, they are **non-modal**. 
+The following sentences illustrate the use of non-modal auxiliaries:
+-	Arlene <ins>is</ins> writing a novel. 
+-	Beulah <ins>has</ins> arrived in Saskatoon. 
+-	Doris <ins>did</ins> not buy any vegetables.
+
+If there’s no other verb in the clause, *have*, *be*, or *do* is probably the main verb.
