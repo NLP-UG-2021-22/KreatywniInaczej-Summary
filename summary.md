@@ -18,6 +18,21 @@ She gives some consideration to **adverbs**, whose behaviour is much more challe
 The chapter is concluded with the introduction of the term **open-class categories**. Nouns, verbs, and adjectives can be said to represent this category since:
 > […] when new words get added to the language, they are almost always in one of these three categories – the categories are open to new members. These categories are sometimes also called **lexical categories** or **content words** because these categories are the ones that do most of the lexical semantic work in a sentence: they convey most of the meaning of a sentence (Anderson 2018: 211).
 
+## *7.2  Compound Words*
+One of the most productive ways to create new words is said to be **compounding** where the new word is produced by joining two free morphemes. You can see the video on compound words [here] (https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/7-3-compound-words/#pb-interactive-content). 
+
+Another productive process is called **affixation**. During this process, a bound morpheme is affixed to a base. The meaning can be deduced from the base of a word.
+
+Compounding can be exemplified by means of the word *greenhouse*, created by combining two free morphemes. Its meaning is different from the meaning of the phrase *a green house*. The word refers to the building where plants are grown, while the phrase refers to the colour of the building.
+
+![Credit: Joe Shlabotnik on Flickr; Attribution 2.0 Generic (CC BY 2.0)](https://live.staticflickr.com/3280/3115881869_f440a3216b_b.jpg)
+
+![Image “Greenhouse at Wilson Farm, East Lexington MA“ by John Phelan is licensed under CC BY 3.0.](https://upload.wikimedia.org/wikipedia/commons/8/8a/Greenhouse_at_Wilson_Farm,_East_Lexington_MA.jpg) 
+
+There is only one part of a compound that has a special role. Even if both parts of a compound contribute to the meaning, it is the head of a compound that determines its category. English is a **head-final** language because in this language the second part of the compound determines the category of the compound. Some languages are **head-initial**, with the head as the first element in a compound.
+
+[Endocentric compounds](http://www.glottopedia.org/index.php/Endocentric_compound) have a head that establishes the meaning and the category of the compound. [Exocentric compounds](https://www.thoughtco.com/exocentric-compound-words-1690583) do not have a base or root that establishes the meaning of the word. 
+
 ## 7.3 *Closed Class Categories (Function Words)*
 In the opposition to open-class categories stand **closed-classed categories** to which the language does not usually add new words. Words that belong to closed-class categories are called **function words**. These are:
 - **determiners** which most often appear before nouns:
