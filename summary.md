@@ -32,3 +32,34 @@ Compounding can be exemplified by means of the word *greenhouse*, created by com
 There is only one part of a compound that has a special role. Even if both parts of a compound contribute to the meaning, it is the head of a compound that determines its category. English is a **head-final** language because in this language the second part of the compound determines the category of the compound. Some languages are **head-initial**, with the head as the first element in a compound.
 
 [Endocentric compounds](http://www.glottopedia.org/index.php/Endocentric_compound) have a head that establishes the meaning and the category of the compound. [Exocentric compounds](https://www.thoughtco.com/exocentric-compound-words-1690583) do not have a base or root that establishes the meaning of the word. 
+
+## 7.3 *Closed Class Categories (Function Words)*
+In the opposition to open-class categories stand **closed-classed categories** to which the language does not usually add new words. Words that belong to closed-class categories are called **function words**. These are:
+- **determiners** which most often appear before nouns:
+    - **articles** (*<ins>a</ins> student*, *<ins>an</ins>  orange*, *<ins>the</ins>  snake*)
+    - **demonstratives** (*<ins>those</ins> students*, *<ins>these</ins> oranges*, *<ins>that</ins> snake*, *<ins>this</ins> idea*)
+    - **quantifiers** and **numerals** (*<ins>many</ins> students*, *<ins>twelve</ins> oranges*, *<ins>most</ins> snakes*, *<ins>several</ins> ideas*)
+    - **possessive pronouns** (*<ins>my</ins> sister*, *<ins>your</ins> idea*)
+- **prepositions** which usually appear with a noun phrase immediately following them (<ins>on</ins> the table, <ins>in</ins> the basket)
+- **conjunctions** join two phrases that belong to the same category (*oranges <ins>and</ins> lemons*, *soup <ins>or</ins> salad*, *small <ins>but</ins> mighty*)
+- **complementizers** introduce a clause which is a sentence embedded within a larger sentence (*Sam told us <ins>that</ins> she loved baseball*; *She decided to go running <ins>although</ins> a storm was forecast*).
+
+## 7.4 *Auxiliaries*
+**Auxiliaries** provide grammatical information about a verb’s tense or aspect, or other elements of meaning. There are nine **modal auxiliaries**:
+1.  can
+2. could
+3. shall
+4. should
+5. will
+6. would
+7. may
+8. might
+9. must
+
+The verbs *have*, *be*, and *do* can behave like auxiliaries too. They can be inflected, so even when they are auxiliaries, they are **non-modal**. 
+The following sentences illustrate the use of non-modal auxiliaries:
+-	Arlene <ins>is</ins> writing a novel. 
+-	Beulah <ins>has</ins> arrived in Saskatoon. 
+-	Doris <ins>did</ins> not buy any vegetables.
+
+If there’s no other verb in the clause, *have*, *be*, or *do* is probably the main verb.
