@@ -18,6 +18,21 @@ She gives some consideration to **adverbs**, whose behaviour is much more challe
 The chapter is concluded with the introduction of the term **open-class categories**. Nouns, verbs, and adjectives can be said to represent this category since:
 > […] when new words get added to the language, they are almost always in one of these three categories – the categories are open to new members. These categories are sometimes also called **lexical categories** or **content words** because these categories are the ones that do most of the lexical semantic work in a sentence: they convey most of the meaning of a sentence (Anderson 2018: 211).
 
+## *7.2  Compound Words*
+One of the most productive ways to create new words is said to be **compounding** where the new word is produced by joining two free morphemes. You can see the video on compound words [here] (https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/7-3-compound-words/#pb-interactive-content). 
+
+Another productive process is called **affixation**. During this process, a bound morpheme is affixed to a base. The meaning can be deduced from the base of a word.
+
+Compounding can be exemplified by means of the word *greenhouse*, created by combining two free morphemes. Its meaning is different from the meaning of the phrase *a green house*. The word refers to the building where plants are grown, while the phrase refers to the colour of the building.
+
+![Credit: Joe Shlabotnik on Flickr; Attribution 2.0 Generic (CC BY 2.0)](https://live.staticflickr.com/3280/3115881869_f440a3216b_b.jpg)
+
+![Image “Greenhouse at Wilson Farm, East Lexington MA“ by John Phelan is licensed under CC BY 3.0.](https://upload.wikimedia.org/wikipedia/commons/8/8a/Greenhouse_at_Wilson_Farm,_East_Lexington_MA.jpg) 
+
+There is only one part of a compound that has a special role. Even if both parts of a compound contribute to the meaning, it is the head of a compound that determines its category. English is a **head-final** language because in this language the second part of the compound determines the category of the compound. Some languages are **head-initial**, with the head as the first element in a compound.
+
+[Endocentric compounds](http://www.glottopedia.org/index.php/Endocentric_compound) have a head that establishes the meaning and the category of the compound. [Exocentric compounds](https://www.thoughtco.com/exocentric-compound-words-1690583) do not have a base or root that establishes the meaning of the word. 
+
 ## 7.3 *Closed Class Categories (Function Words)*
 In the opposition to open-class categories stand **closed-classed categories** to which the language does not usually add new words. Words that belong to closed-class categories are called **function words**. These are:
 - **determiners** which most often appear before nouns:
@@ -48,3 +63,24 @@ The following sentences illustrate the use of non-modal auxiliaries:
 -	Doris <ins>did</ins> not buy any vegetables.
 
 If there’s no other verb in the clause, *have*, *be*, or *do* is probably the main verb.
+
+## 7.5	*Neurolinguistics: Syntactic Category Differences in the Brain*
+In the final section of the chapter neurolinguistic evidence is provided to prove that "syntactic categories exist not just in language, but also in the brain" (Anderson 2018: 228).
+
+As the first example a study of brain activity measured with [**fMRI**](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) is described. A list of 3 words from the same syntactic category was shown to the subjects. They were then asked whether the last word was related to the preceding two. The results indicated that "there were several areas of the brain that showed greater blood flow for verbs than for nouns" (Anderson 2018: 226). The greater blood flow is indicatory of greater the oxygen demand, and greater brain activity. This proves that the division of words into categories is reflected in brain activity. 
+
+Another piece of evidence for it is also provided in this subchapter: a study of people suffering from two different types of aphasia. They were given three tasks: picture naming, action description, and story narration. Later, the collection of subjects' speech from these tasks was compared to the control group. The Nouns to Verb ratio indicated dissociation in subjects from test groups. In the control group the ratio was close to 1. In subjects with [**agrammatic aphasia**](https://en.wikipedia.org/wiki/Agrammatism), for whom verbs are difficult to produce, the ratio was close to 2. Conversely, in the case of people with [**anomic aphasia**](https://en.wikipedia.org/wiki/Anomic_aphasia) (having difficulty with nouns) the ratio was less than 1. This shows that different brain injuries cause impairment of different syntactic categories. 
+
+# *CHAPTER 11: INDIGENOUS LANGUAGES*
+
+## 11.1	*Indigenous Languages and the Legacy of Residential Schools*
+
+In this section the history and future of indigenous languages of Canada is described. Out of estimated two hundred only 64 of these languages still survive, some having a mere dozen of speakers.  
+
+The author argues that apart from economic and cultural pressure, there were other (less obvious) factors that contributed very strongly to the displacement of aboriginal languages by English. First, there were wars, epidemics, and famine caused by the European settlers. Aboriginal Canadians were forced into reserves and their children taken away to foster homes and residential schools. Here the author quotes  Sir John A Macdonald, Canada’s first prime minister:
+
+> When the school is on the reserve the child lives with its parents, who are savages; he is surrounded by savages, and though he may learn to read and write, his habits, and training and mode of thought are Indian. He is simply a savage who can read and write [...] These residential schools were created for the purpose of separating Aboriginal children from their families, in order to minimize and weaken family ties and cultural linkages, and to indoctrinate children into a new culture—the culture of the legally dominant Euro-Christian Canadian society.
+
+Then, TRC’s appeal to the federal government to enact an Aboriginal Languages Act are recounted. Some of the points made in the Call to Action are listed. These are mostly related to language preservation, revitalization and teaching.
+
+The section is concluded with the description of the efforts made by linguists to preserve the indigenous languages. Their work involved recording and transcribing speech, creating phonological, morphological and syntactic analysis, as well as developing writing systems when needed. 
