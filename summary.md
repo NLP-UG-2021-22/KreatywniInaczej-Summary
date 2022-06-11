@@ -63,3 +63,10 @@ The following sentences illustrate the use of non-modal auxiliaries:
 -	Doris <ins>did</ins> not buy any vegetables.
 
 If there’s no other verb in the clause, *have*, *be*, or *do* is probably the main verb.
+
+## 7.5	*Neurolinguistics: Syntactic Category Differences in the Brain*
+In the final section of the chapter neurolinguistic evidence is provided to prove that "syntactic categories exist not just in language, but also in the brain" (Anderson 2018: 228).
+
+As the first example a study of brain activity measured with [**fMRI**](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) is described. A list of 3 words from the same syntactic category was shown to the subjects. They were then asked whether the last word was related to the preceding two. The results indicated that "there were several areas of the brain that showed greater blood flow for verbs than for nouns" (Anderson 2018: 226). The greater blood flow is indicatory of greater the oxygen demand, and greater brain activity. This proves that the division of words into categories is reflected in brain activity. 
+
+Another piece of evidence for it is also provided in this subchapter: a study of people suffering from two different types of aphasia. They were given three tasks: picture naming, action description, and story narration. Later, the collection of subjects' speech from these tasks was compared to the control group. The Nouns to Verb ratio indicated dissociation in subjects from test groups. In the control group the ratio was close to 1. In subjects with [**agrammatic aphasia**](https://en.wikipedia.org/wiki/Agrammatism), for whom verbs are difficult to produce, the ratio was close to 2. Conversely, in the case of people with [**anomic aphasia**](https://en.wikipedia.org/wiki/Anomic_aphasia) (having difficulty with nouns) the ratio was less than 1. This shows that different brain injuries cause impairment of different syntactic categories. 
