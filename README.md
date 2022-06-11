@@ -1,2 +1,3 @@
 This is a summary of chapters VII and XI from *Essentials of Linguistics* by Catherine Anderson.
 It is a project completed by Maja Grys, Irena Jerzemowska, Joanna Nowak, and Karol Sadurski.
+The book can be found on [Pressbooks platform](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/) or [here](http://solr.bccampus.ca:8001/bcc/file/f934dfef-66b0-4533-8bb4-7daaf8e94900/1/Essentials-of-Linguistics.pdf) as a PDF file.
