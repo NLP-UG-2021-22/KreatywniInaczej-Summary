@@ -98,7 +98,7 @@ As a matter of fact, the notion of speaking native languages mainly at home is h
 
 ## 11.3	*Learning Mohawk*
 
-The speaker then continues to share his experiences of learning Mohawk. He reminisces about spending time with older people, who used to be the main source of his knowledge about the language. A comparison between _the old_ and _the young_ is made - the former tend to be more laid-back and carefree, which makes them more enjoyable to be around.
+The speaker then continues to [share his experiences](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/learning-mohawk/) of learning Mohawk. He reminisces about spending time with older people, who used to be the main source of his knowledge about the language. A comparison between _the old_ and _the young_ is made - the former tend to be more laid-back and carefree, which makes them more enjoyable to be around.
 
 However, more effort must be put into gaining the __trust__ of the older people. They are unwilling to share the knowledge they possess with strangers, therefore, __patience__ is needed if one wishes to acquire it. This may be a serious obstacle when attempting to preserve the language, because traditions must be passed on to the next generations to prevent them from being abandoned.
 
