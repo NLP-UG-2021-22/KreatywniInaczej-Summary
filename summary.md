@@ -88,20 +88,3 @@ The section is concluded with the description of the efforts made by linguists t
 
 Another piece of evidence for it is also provided in this subchapter: a study of people suffering from two different types of aphasia. They were given three tasks: picture naming, action description, and story narration. Later, the collection of subjects' speech from these tasks was compared to the control group. The Nouns to Verb ratio indicated dissociation in subjects from test groups. In the control group the ratio was close to 1. In subjects with [**agrammatic aphasia**](https://en.wikipedia.org/wiki/Agrammatism), for whom verbs are difficult to produce, the ratio was close to 2. Conversely, in the case of people with [**anomic aphasia**](https://en.wikipedia.org/wiki/Anomic_aphasia) (having difficulty with nouns) the ratio was less than 1. This shows that different brain injuries cause impairment of different syntactic categories. 
 
-## 11.2	*Preserving Mohawk*
-
-This part is devoted to [an interview](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/11-2/) with David Kanatawakhon-Maracle, a Mohawk teacher, who expresses his views on language teaching and the preservation of Aboriginal languages. He claims that the best way to save a language from extinction is taking action i.e. learning said language and using it actively, not only at home, but also in public.
-
-As a matter of fact, the notion of speaking native languages mainly at home is heavily criticized by Kanatawakhon-Maracle. This point of view is believed to originate from the times of colonialism, when speaking Indigenous languages in public was considered disgraceful. The speaker maintains that if this situation continues, it may result in a gradual but __inevitable__ disappearance of the language.
-
-![Image "Dancers from the Mohawk Nation at Kahnawake in 1869" by Bibioarchives Canada via Flickr; CC by 2,0](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_620/MTc0NjM5MDY1NjUwNjM2NzQ1/traditional-mohawk-nation-daily-and-ceremonial-clothing.webp) 
-
-## 11.3	*Learning Mohawk*
-
-The speaker then continues to [share his experiences](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/learning-mohawk/) of learning Mohawk. He reminisces about spending time with older people, who used to be the main source of his knowledge about the language. A comparison between _the old_ and _the young_ is made - the former tend to be more laid-back and carefree, which makes them more enjoyable to be around.
-
-However, more effort must be put into gaining the __trust__ of the older people. They are unwilling to share the knowledge they possess with strangers, therefore, __patience__ is needed if one wishes to acquire it. This may be a serious obstacle when attempting to preserve the language, because traditions must be passed on to the next generations to prevent them from being abandoned.
-
-In addition, Kanatawakhon-Maracle presents the change in the behaviour of people depending on the language they are speaking at the moment. He brings up an example of his uncle, who used to complain nonstop when speaking English, but as soon as they started speaking Mohawk, he seemed to __light up__ and __radiate positive energy__ all around.
-
-At the end, the speaker communicates his strong conviction that __grammar practice is superior to learning vocabulary__. The main rationale behind this theory is that the familiarity with the lexicon of a language does not guarantee the ability to communicate. In other words, students who do not know the grammar of a certain language, have no idea how to utilise the words and phrases they have learnt.
