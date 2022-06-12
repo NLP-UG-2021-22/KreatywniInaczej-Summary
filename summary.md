@@ -88,3 +88,10 @@ The section is concluded with the description of the efforts made by linguists t
 
 Another piece of evidence for it is also provided in this subchapter: a study of people suffering from two different types of aphasia. They were given three tasks: picture naming, action description, and story narration. Later, the collection of subjects' speech from these tasks was compared to the control group. The Nouns to Verb ratio indicated dissociation in subjects from test groups. In the control group the ratio was close to 1. In subjects with [**agrammatic aphasia**](https://en.wikipedia.org/wiki/Agrammatism), for whom verbs are difficult to produce, the ratio was close to 2. Conversely, in the case of people with [**anomic aphasia**](https://en.wikipedia.org/wiki/Anomic_aphasia) (having difficulty with nouns) the ratio was less than 1. This shows that different brain injuries cause impairment of different syntactic categories. 
 
+## 11.2	*Preserving Mohawk*
+
+This part is devoted to [an interview](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/11-2/) with David Kanatawakhon-Maracle, a Mohawk teacher, who expresses his views on language teaching and the preservation of Aboriginal languages. He claims that the best way to save a language from extinction is taking action i.e. learning said language and using it actively, not only at home, but also in public.
+
+As a matter of fact, the notion of speaking native languages mainly at home is heavily criticized by Kanatawakhon-Maracle. This point of view is believed to originate from the times of colonialism, when speaking Indigenous languages in public was considered disgraceful. The speaker maintains that if this situation continues, it may result in a gradual but __inevitable__ disappearance of the language.
+
+![Image "Dancers from the Mohawk Nation at Kahnawake in 1869" by Bibioarchives Canada via Flickr; CC by 2,0](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_620/MTc0NjM5MDY1NjUwNjM2NzQ1/traditional-mohawk-nation-daily-and-ceremonial-clothing.webp) 
