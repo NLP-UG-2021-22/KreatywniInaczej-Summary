@@ -86,8 +86,6 @@ Then, TRC’s appeal to the federal government to enact an Aboriginal Languages 
 
 The section is concluded with the description of the efforts made by linguists to preserve the indigenous languages. Their work involved recording and transcribing speech, creating phonological, morphological and syntactic analysis, as well as developing writing systems when needed. 
 
-Another piece of evidence for it is also provided in this subchapter: a study of people suffering from two different types of aphasia. They were given three tasks: picture naming, action description, and story narration. Later, the collection of subjects' speech from these tasks was compared to the control group. The Nouns to Verb ratio indicated dissociation in subjects from test groups. In the control group the ratio was close to 1. In subjects with [**agrammatic aphasia**](https://en.wikipedia.org/wiki/Agrammatism), for whom verbs are difficult to produce, the ratio was close to 2. Conversely, in the case of people with [**anomic aphasia**](https://en.wikipedia.org/wiki/Anomic_aphasia) (having difficulty with nouns) the ratio was less than 1. This shows that different brain injuries cause impairment of different syntactic categories. 
-
 ## 11.2	*Preserving Mohawk*
 
 This part is devoted to [an interview](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/11-2/) with David Kanatawakhon-Maracle, a Mohawk teacher, who expresses his views on language teaching and the preservation of Aboriginal languages. He claims that the best way to save a language from extinction is taking action i.e. learning said language and using it actively, not only at home, but also in public.
