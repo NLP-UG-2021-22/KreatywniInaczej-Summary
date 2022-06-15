@@ -19,7 +19,7 @@ The chapter is concluded with the introduction of the term **open-class categori
 > […] when new words get added to the language, they are almost always in one of these three categories – the categories are open to new members. These categories are sometimes also called **lexical categories** or **content words** because these categories are the ones that do most of the lexical semantic work in a sentence: they convey most of the meaning of a sentence (Anderson 2018: 211).
 
 ## *7.2  Compound Words*
-One of the most productive ways to create new words is said to be **compounding** where the new word is produced by joining two free morphemes. You can see the video on compound words [here] (https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/7-3-compound-words/#pb-interactive-content). 
+One of the most productive ways to create new words is said to be **compounding** where the new word is produced by joining two free morphemes. You can see the video on compound words [here](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/7-3-compound-words/#pb-interactive-content). 
 
 Another productive process is called **affixation**. During this process, a bound morpheme is affixed to a base. The meaning can be deduced from the base of a word.
 
