@@ -73,17 +73,21 @@ As the first example a study of brain activity measured with [**fMRI**](https://
 Another piece of evidence for it is also provided in this subchapter: a study of people suffering from two different types of aphasia. They were given three tasks: picture naming, action description, and story narration. Later, the collection of subjects' speech from these tasks was compared to the control group. The Nouns to Verb ratio indicated dissociation in subjects from test groups. In the control group the ratio was close to 1. In subjects with [**agrammatic aphasia**](https://en.wikipedia.org/wiki/Agrammatism), for whom verbs are difficult to produce, the ratio was close to 2. Conversely, in the case of people with [**anomic aphasia**](https://en.wikipedia.org/wiki/Anomic_aphasia) (having difficulty with nouns) the ratio was less than 1. This shows that different brain injuries cause impairment of different syntactic categories. 
 
 
-### 8.1 *Tree Diagrams*
+## 8.1 *Tree Diagrams*
 
-- words are grouped into phrases and phrases are grouped into other phrases
-- phrases can also form sentences
-- in order to depict this organization, we use tree diagrams
-- the tree diagram displays multiple multiple relationships between words in a sentence or a phrase
-- each branch is developed from a node, which is a correspondent to so - called constituent
-- a constituent is a set of words, which acts like a unit
-- a node which is at the very top of the tree is often called a parent or a mother, and nodes which come from the mother are daughters.
-- Nodes which came from the same branch are called siblings or sisters.
-- tree diagrams can represent relationships in the mental grammar
+The main component of tree diagrams are words. Words are grouped into phrases and sentences. Sentences can also be created by phrases. Tree diagrams are used in order to depict the organization of sentences and phrases, and to picture the order of words in a sentence and/or in a phrase. 
+[*syntactic tree*](https://www.researchgate.net/profile/Jiangming-Liu/publication/318488119/figure/fig1/AS:768982932008966@1560351226451/Syntactic-trees-of-the-sentence-The-little-boy-likes-red-tomatoes-a-syntactic-tree.png)
+
+As we can see, the sentences above were separated into smaller pieces. Those smaller pieces are situated in a tree-like form. That is the reason for the name of tree diagrams. 
+
+The words from the sentences displayed in the image above are acting as a head, from which branches are drawn.These branches are showing us the relationship between words in those sentences. 
+Each branch is developed from a node, which is a correspondent to a constituent. Constituent is a set of words, which acts like a unit. 
+
+To make things easier, we can call the highest node in a syntactic tree, and the nodes below (developed from the highest node) can be called "daughters", whereas the highest node can be a mother. The nodes developed from the same mother are sisters. 
+
+Tree diagrams are used to represent relationships in the mental grammar. 
+
+
 
 
 ### *8.2 X - bar Phrase structure*
