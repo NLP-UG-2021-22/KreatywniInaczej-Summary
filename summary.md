@@ -85,6 +85,14 @@ Another piece of evidence for it is also provided in this subchapter: a study of
 - Nodes which came from the same branch are called siblings or sisters.
 - tree diagrams can represent relationships in the mental grammar
 
+
+### *8.2 X - bar Phrase structure*
+
+- X - bar theory - claims that every single phrase in every single sentence in the mental grammar of every single human language, has the same core organization
+- according to this theory, every phrase consists of head
+- head is a terminal node of the phrase in other words - has no daughters
+- the head determines the category of the phrase, so if the head is a noun then the phrase becomes a noun phrase (NP)
+
 # *CHAPTER 11: INDIGENOUS LANGUAGES*
 
 ## 11.1	*Indigenous Languages and the Legacy of Residential Schools*
