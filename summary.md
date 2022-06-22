@@ -98,7 +98,7 @@ Tree diagrams are used to represent relationships in the mental grammar.
 
 The X - Bar theory claims that every single phrase in every single sentences in the mental grammar of every singl human language, has the same core organization. According to this theory, every phrase has a head, which defines the category of the phrase. 
 
-Therefore, the phrase can be a prepositional one (PP), when the head is a preposition, verb phrase (VP) if the head is a verb, or noun phrase (NP) if the head is a noun. 
+Therefore, the phrase can be a prepositional one (PP), when the head is a preposition, verb phrase (VP) if the head is a verb, or noun phrase (NP) if the head is a noun. Therefore, we can clearly see the visual description of relationships in mental grammar. 
 
 
 
