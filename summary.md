@@ -46,7 +46,7 @@ In the opposition to open-class categories stand **closed-classed categories** t
 
 ## 7.4 *Auxiliaries*
 **Auxiliaries** provide grammatical information about a verb’s tense or aspect, or other elements of meaning. There are nine **modal auxiliaries**:
-1.  can
+1. can
 2. could
 3. shall
 4. should
