@@ -90,12 +90,17 @@ Tree diagrams are used to represent relationships in the mental grammar.
 
 
 
-### *8.2 X - bar Phrase structure*
+## *8.2 X - bar Phrase structure*
 
-- X - bar theory - claims that every single phrase in every single sentence in the mental grammar of every single human language, has the same core organization
-- according to this theory, every phrase consists of head
-- head is a terminal node of the phrase in other words - has no daughters
-- the head determines the category of the phrase, so if the head is a noun then the phrase becomes a noun phrase (NP)
+# X - BAR THEORY
+[x - bar](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/X-bar_syntax_tree_-_Should_I_finish_my_homework_%28S-structure%29.svg/1200px-X-bar_syntax_tree_-_Should_I_finish_my_homework_%28S-structure%29.svg.png)
+
+
+The X - Bar theory claims that every single phrase in every single sentences in the mental grammar of every singl human language, has the same core organization. According to this theory, every phrase has a head, which defines the category of the phrase. 
+
+Therefore, the phrase can be a prepositional one (PP), when the head is a preposition, verb phrase (VP) if the head is a verb, or noun phrase (NP) if the head is a noun. 
+
+
 
 # *CHAPTER 11: INDIGENOUS LANGUAGES*
 
